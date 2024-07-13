@@ -1,0 +1,5 @@
+#LIST OF ALL THE PACKAGES NEEDED FOR THIS PROJECT
+pandas
+matplotlib
+scikit-learn
+requests
